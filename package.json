@@ -2,7 +2,7 @@
   "name": "w3c-keyname",
   "version": "2.2.4",
   "description": "Get a KeyboardEvent.key-style string from an event",
-  "main": "index.cjs",
+  "main": "index.js",
   "type": "module",
   "exports": {
     "import": "./index.es.js",
