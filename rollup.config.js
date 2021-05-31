@@ -1,7 +1,7 @@
 export default {
   input: "index.es.js",
   output: {
-    file: "index.cjs",
+    file: "index.js",
     format: "cjs"
   }
 }

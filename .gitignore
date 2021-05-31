@@ -1,3 +1,4 @@
 /node_modules
 .tern-*
 /index.cjs
+/index.js
